@@ -1,0 +1,148 @@
+.nav-item2 {
+
+    display: flex;
+    align-items: center;
+    margin-left: 950px;
+    font-weight: bolder;
+
+
+
+}
+
+.nav-item3 {
+    margin-top: 15px;
+    padding: 5px;
+    /* background-color: aqua; */
+    margin-left: 15px;
+
+}
+
+.figologo {
+
+    margin-left: 150px;
+}
+
+.Bodytxt-1 {
+    font-weight: bolder;
+    font-size: 50px;
+    margin-left: 50px;
+    margin-top: 50px;
+    padding: 0;
+}
+
+.Bodytxt-2 {
+    font-weight: bolder;
+    font-size: 50px;
+    margin-left: 50px;
+    margin-top: -250px;
+
+
+}
+
+.Bodytxt-3 {
+
+    margin-left: 80px;
+    font-size: medium;
+    margin-left: 60px;
+}
+
+.img_1 {
+    height: 360px;
+    margin-left: 400px;
+}
+
+.img-2 {
+
+    /* margin-top: 100px; */
+    height: 250px;
+
+    margin-left: 50px;
+}
+
+.div4 {
+    display flex:
+}
+
+.half2 {
+    margin-top: 100px;
+
+}
+
+.btn_1 {
+
+    margin-left: 100px;
+
+}
+
+.txt5 {
+
+    margin-top: 100px;
+    margin-left: -75px;
+
+}
+
+.txt6 {
+
+    color: orange;
+    margin-left: 60px;
+
+
+}
+
+.txt7 {
+
+    margin-top: 50px;
+
+    color: black;
+    margin-left: -75px;
+    font-size: 30px;
+
+}
+
+.para_chef {
+    font-size: small;
+    margin-top: 150px;
+    margin-left: -250px;
+}
+
+.card {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.half_3 {
+
+    margin: 10px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 80px;
+}
+
+.para_3 {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    color: orange;
+}
+
+.para_4 {
+
+    text-align: center;
+    font-weight: bolder;
+}
+
+.btn5{
+ margin-left:45% ;
+ border: 1px solid black;
+ margin-bottom: 100px;
+
+}
+
+.footer{
+    background-color: rgb(185, 249, 185);
+    height: 300px;
+
+    margin-bottom: 100px;
+
+}
